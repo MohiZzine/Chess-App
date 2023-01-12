@@ -1,15 +1,6 @@
 # Chess Game Application
-<style>
-  .heading {
-    color: red;
-  }
 
-  .content {
-    font-family: 'Times New Roman';
-  }
-</style>
-
-<div class="content">
+<div style="font-family: 'Time New Roman';>
 
 Chess Application created with Java and the JavaFX framework.
 
