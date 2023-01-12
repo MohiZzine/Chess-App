@@ -1,11 +1,9 @@
 # Chess Game Application
 
-<div style="font-family: 'Time New Roman';>
 
 Chess Application created with Java and the JavaFX framework.
 
 The purpose of the project was an implementation the OOP concepts in Java, as well as an initiation to JavaFX.
-</div>
 
 
 ## Table of Contents
@@ -28,7 +26,6 @@ The purpose of the project was an implementation the OOP concepts in Java, as we
 ## Technologies 
 
 
-<div class="content">
 
 Let's write down the technologies: languages used, libraries and its versions:
 
@@ -40,25 +37,21 @@ The chess application was developed using Java and JavaFX. Java is a popular pro
 
 In addition to Java and JavaFX, we also used Unified Modeling Language (UML) to design the architecture of the application. UML is a standard language for modeling object-oriented systems, and we used it to create class diagrams, sequence diagrams, and state diagrams to visualize the different components of the application and their interactions.
 
-</div>
 
 ***
 
 ## Environment
 
-<div class="content">
 
 The choosen environment to develop the application was IntelliJ. **IntelliJ IDEA** is a powerful integrated development environment **(IDE)** that is specifically designed for Java development. Additionally, it also has built-in support for JavaFX and Gradle, which helped to set up and manage the dependencies for the project. We found that **IntelliJ IDEA** was better suited for our needs compared to other IDEs such as VS Code, Eclipse, and NetBeans.
 
 It is important to note that different developers have different preferences, and the choice of the **IDE** depends on the personal taste, the features that the developer needs, and the project requirements.
 
-</div>
 
 ***
 
 ## Installation
 
-<div class="content">
 The first step in running the chess application is to make sure that you have the Java Development Kit (JDK) installed on your computer. The JDK is a software development environment for building Java applications. It includes the Java Runtime Environment (JRE) as well as development tools such as the Java compiler.
 
 You can download the JDK from the official Oracle website:
@@ -90,8 +83,6 @@ javap -v -cp jfxrt.jar javafx.application.Application
 ```
 
 This command will display information about the JavaFX Application class, if the command is not recognized, then JavaFX is not installed.
-
-</div>
 
 ***
 
