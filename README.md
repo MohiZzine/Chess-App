@@ -12,14 +12,18 @@ The purpose of the project was an implementation the OOP concepts in Java, as we
 <!-- [comment]: <> (Future Developments: This section could include a list of planned updates or features that you intend to add to your chess application in the future.)
 * [Features](#features) -->
 
-- [Technologies](#technologies)
-- [Environment](#environment)
-- [Installation](#installation)
-- [User Guide](#user-guide)
-- [Images](#images)
-- [Code](#code)
-- [Additional Resources](#additional-resources)
-- [Future Development](#future-development)
+- [Chess Game Application](#chess-game-application)
+  - [Table of Contents](#table-of-contents)
+  - [Technologies](#technologies)
+  - [Environment](#environment)
+  - [Installation](#installation)
+  - [User Guide](#user-guide)
+    - [1.  _Landing Page_](#1--landing-page)
+    - [2.  _Chessboard Page_](#2--chessboard-page)
+    - [3.  _Result Page_](#3--result-page)
+  - [UML](#uml)
+  - [Additional Resources](#additional-resources)
+  - [Future Development](#future-development)
 
 ---
 
@@ -82,19 +86,28 @@ This command will display information about the JavaFX Application class, if the
 
 ## User Guide
 
-The developer of this chess application has created a comprehensive user guide section in the README.md file to provide users with clear instructions on how to navigate and use the application.
-
-1. ### _Landing Page_
+### 1.  _Landing Page_
 
 The landing page has been designed with usability in mind, and features options to choose from different available themes and select the desired duration of the game.
 
-2. ### _Chessboard Page_
+![Landing Page](img/landingpage.png)
+
+### 2.  _Chessboard Page_
 
 The chessboard page is the core of the application, and it includes an interactive chessboard with all the standard chess pieces and moves, allowing for a seamless and enjoyable game experience.
 
-3. ### _Result Page_
+Here is a template of the special theme display:
+
+![Chessboard Special Theme](img/chessspage.png)
+
+### 3.  _Result Page_
 
 The result page, which will be displayed once the game is over, provides an overview of the outcome of the game (win, lose or draw) and the time taken to complete the game. Overall, this user guide section has been crafted to ensure that users can easily understand and utilize all the features of the application.
+
+![Result Page](img/resultpage.png)
+
+*I agree, it looks ugly*
+
 
 ---
 
@@ -119,3 +132,12 @@ Here are some resources that helped me in this project:
 ---
 
 ## Future Development
+
+We welcome external contributions to this project! If you are interested in contributing, here are some ideas for future development:
+
+- Adding piece sounds for each move to enhance the playing experience
+- Implementing an AI opponent with different difficulty levels
+- Allowing players to save and load games
+- Improving the user interface with additional themes and customization options
+
+If you have any other ideas or suggestions, feel free to open an issue or submit a pull request. We appreciate any and all contributions to make this chess application even better.
