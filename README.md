@@ -117,7 +117,7 @@ The UML diagram we designed for the project was so huge it couldn't fit as a scr
 
 A teammate was tasked to provide a flowchart for the functionning of the chess game:
 
-[UML Diagram](chessUML.pdf)
+[Chess UML Diagram](https://github.com/MohiZzine/Chess-App/blob/master/ChessUML.pdf)
 
 ---
 
